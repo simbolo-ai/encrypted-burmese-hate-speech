@@ -1,7 +1,4 @@
----
-language:
-- my
----
+
 ### What is Hate Speech?
 Hate speech is any toxic communication used to attack individuals or groups directly, especially based on the characteristics (but not limited to): physical deficiency, mental deficiency, moral deficiency, age, ethnicity, race, national origin, caste, religion, disability, serious disease, sex, gender, gender identity, gender reassignment, sexual orientation, and immigration status.
 
